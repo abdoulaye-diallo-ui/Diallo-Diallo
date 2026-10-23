@@ -1,0 +1,6 @@
+{
+  "name": "Samawakhtane",
+  "description": "Application de messagerie sécurisée de bout en bout avec appels audio/vidéo et statuts éphémères.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
